@@ -1,0 +1,26 @@
+{
+  "name": "socialetto-influencer-database",
+  "version": "1.0.0",
+  "description": "Influencer Database a searchable database of influencers filterable by niche, audience, and location",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "node src/index.js"
+  },
+  "keywords": [
+    "influencer-database",
+    "influencer-marketing",
+    "influencers",
+    "creators",
+    "marketing",
+    "analytics",
+    "javascript",
+    "nodejs"
+  ],
+  "author": "Socialetto",
+  "license": "ISC",
+  "homepage": "https://socialetto.com",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/socialetto/influencer-database.git"
+  }
+}
